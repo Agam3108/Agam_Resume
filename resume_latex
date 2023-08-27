@@ -1,0 +1,111 @@
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Agam} % Your name
+% You can merge both of these into a single line, if you do not have a website.
+\address{\\ +91-9044749188 \\ Uttar Pradesh,India} 
+\address{\href{mailto:agamsrivastava3108@gmail.com}\\{contact@agamsrivastava3108@gmail.com} \\ \href{https://www.linkedin.com/in/agam318/}{linkedin.com} \\ \href{https://github.com/Agam3108}{github.com}}  %
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE
+%----------------------------------------------------------------------------------------
+
+}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf B.Tech Electronics and Communication}, Indian Institute of Information Technology Bhopal  \hfill {Expected 2026\\
+                          {\bf CPI-9.14}}\\                  
+{\bf Relevant Coursework:}  Data Structures and Analysis of Algorithms, Object Oriented Programming, Advanced Engineering Mathematics.
+    
+{\bf Intermediate}, Spring Dale College Lucknow \hfill {2020-2021   
+                                                        \\ {\bf Percentage-96.75}}
+%Minor in Linguistics \smallskip \\
+%Member of Eta Kappa Nu \\
+%Member of Upsilon Pi Epsilon \\
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% TECHINICAL STRENGTHS	
+%----------------------------------------------------------------------------------------
+\begin{rSection}{SKILLS}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Programming Languages  & C++, C, Java, Python, MATLAB
+\\
+DevOps Tools & Git, Github , VS Code\\
+Web Development & HTML, CSS, JavaScript, ReactJS
+\\
+Data Science & Numpy, Matplotlib, Pandas
+\\
+Soft Skills & Oration, Public Speaking, Content Writing, Leadership, Responsibility
+\end{tabular}\\
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+\vspace{-1.25em}
+
+    \item \textbf{MyTunes-} \textbf{{HTML, CSS and JQuery}}   
+                 \href{https://github.com/Agam3108/MyTunes }{(GitHub-link)}
+   \begin{itemize}
+  
+   \item Utilized HTML, CSS, and JavaScript skills to create and develop the Apple iTunes parody website.
+       \item Designed a responsive web page design with dynamic features.
+   \end{itemize}
+\item \textbf{Quiz-App-} \textbf{{HTML, CSS and JavaScript}}
+\href{https://agam3108.github.io/Q-app/}{(GitHub-link)}
+\begin{itemize}
+\item Developed a quiz application that enables users to engage in an uncomplicated quiz game.
+    
+    \item  Created an interactive web application with possible navigation across sections.
+    
+\end{itemize}
+
+
+
+
+\end{rSection} 
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Achievements and Honors} 
+\begin{itemize}
+    \item 	Obtained a certification from \textbf{Coursera} upon completion of the course on foundations of \textbf{UX design}.
+    \item Completed an online webinar series on \textbf{'GeoProcessing using Python'}, conducted by ISRO and received a certificate of participation.
+    \item	Achieved a maximum rating of \textbf{1169(1 Star)} on \textbf{CodeChef}.
+   
+    \item   Secured first prize in a debate competition organized by \textbf{WWF India} in college.
+    \item Actively contributed to producing literary content for the cultural club of IIIT Bhopal, \textbf{Aarzoo}. 
+    
+\end{itemize}
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Leadership} 
+\begin{itemize}
+    \item Elected as the House prefect in class 12th.Chaired group meetings and held multiple events in this role.
+    \item Elected as Health club junior secretary in a school. Created awareness about potential health hazards, and organized various competitions in this role.
+    
+
+\end{itemize}
+
+
+\end{rSection}
+
+
+\end{document}
